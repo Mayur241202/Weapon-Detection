@@ -1,0 +1,8 @@
+Performance Metrics for YOLOv12:
+----------------------------------------
+mAP50: 0.8149
+mAP50-95: 0.6590
+precision: 0.8428
+recall: 0.6933
+inference_time: 15.5325
+training_time: 1667.3550
